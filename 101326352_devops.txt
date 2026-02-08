@@ -1,0 +1,2 @@
+COMP2156 is a DevOps course offered by GBC it prepares students to work in
+real workflows by assigning work to be done as a group.
