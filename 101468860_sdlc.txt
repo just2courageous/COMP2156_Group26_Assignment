@@ -1,0 +1,7 @@
+SDLC stands for Software Development Life Cycle.
+It is a process used to design, develop, and test software.
+Common SDLC models include Waterfall, Agile, and Spiral.
+Agile methodology focuses on iterative development and customer feedback.
+Scrum and Kanban are popular frameworks within Agile.
+Testing is a critical phase in the SDLC that ensures software quality.
+Types of testing include unit testing, integration testing, and system testing.

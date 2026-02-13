@@ -1,0 +1,65 @@
+name: CI Workflow for COMP2156 Group 26
+
+on:
+  push:
+    branches:
+      - main
+      - '101468860-Masrafi'
+      - '101060853-Courage'
+      - '101326352-Hurmat'
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: List project files
+        run: ls -la
+
+      - name: Check for README.md
+        run: |
+          if [ -f "README.md" ]; then
+            echo "README.md exists."
+            cat README.md
+          else
+            echo "README.md is missing!" && exit 1
+          fi
+
+      - name: Check for DevOps file
+        run: |
+          count=$(ls *_devops.txt 2>/dev/null | wc -l)
+          if [ "$count" -gt 0 ]; then
+            echo "DevOps file(s) found:"
+            cat *_devops.txt
+          else
+            echo "No DevOps file found!" && exit 1
+          fi
+
+      - name: Check for George Brown file
+        run: |
+          count=$(ls *_gb.txt 2>/dev/null | wc -l)
+          if [ "$count" -gt 0 ]; then
+            echo "George Brown file(s) found:"
+            cat *_gb.txt
+          else
+            echo "No George Brown file found!" && exit 1
+          fi
+
+      - name: Check for SDLC file
+        run: |
+          count=$(ls *_sdlc.txt 2>/dev/null | wc -l)
+          if [ "$count" -gt 0 ]; then
+            echo "SDLC file(s) found:"
+            cat *_sdlc.txt
+          else
+            echo "No SDLC file found!" && exit 1
+          fi
+
+      - name: CI workflow completed successfully
+        run: echo "All checks passed for COMP2156 Group 26 Assignment!"
