@@ -1,0 +1,4 @@
+George Brown College (GBC)
+My program is focused on building practical skills for the IT industry. I work with real tools used in professional environments, including Git and GitHub for version control, Linux command line basics, and continuous integration and delivery concepts.
+
+In COMP2156, I am learning DevOps practices such as branching strategies, pull requests, collaboration workflows, and CI pipelines. I am also improving communication skills needed for team based software development, including documenting work clearly and resolving merge conflicts properly.
