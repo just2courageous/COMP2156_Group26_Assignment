@@ -1,0 +1,3 @@
+The importance of DevOps engineer in software devlopement cycle cannot be 
+overstated. It is essential to have this knowledge. Automating different
+tests, deployment and integration is crucial for every devops engineer
