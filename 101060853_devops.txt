@@ -4,3 +4,6 @@ DevOps is a set of practices that helps development and operations teams work to
 Key DevOps ideas include version control, automated builds, automated testing, and automated deployments. A typical DevOps workflow uses Git and GitHub for source control, a CI tool to run tests on every push, and a CD process to release changes safely.
 
 In this course, I am practicing DevOps by working in a shared GitHub repository, creating a personal branch, making meaningful commits, and using pull requests to merge work into the main branch.
+
+DevOps Tools I’m learning
+Git and GitHub for version control and collaboration, Linux command line for working on servers, and CI pipelines to automatically run checks on every push and pull request.
