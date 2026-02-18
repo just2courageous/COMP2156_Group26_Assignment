@@ -10,3 +10,6 @@ Git and GitHub for version control and collaboration, Linux command line for wor
 
 CI Pipeline Steps
 A typical CI pipeline runs automatically when code is pushed. It can install dependencies, run tests, run lint checks, and show pass or fail results in the repository. This helps catch errors early before merging into the main branch.
+
+CI/CD (Continuous Integration/Continuous Delivery)
+CI runs automated checks (like linting/tests) on every push or pull request. CD automates delivery or deployment after CI passes. This reduces human error and makes releases faster and safer.
