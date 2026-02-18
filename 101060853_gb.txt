@@ -5,3 +5,6 @@ In COMP2156, I am learning DevOps practices such as branching strategies, pull r
 
 My Git Collaboration Practice
 In this group assignment, I created my own branch, added my required files, and opened a pull request to merge into main. I am learning how to write clear commit messages, keep changes small, and collaborate safely using branches and reviews.
+
+Teamwork and Collaboration
+In this group assignment, I practiced teamwork by working on my own branch, committing changes locally, and using a pull request to merge my work into the main branch. This helped me follow a real collaborative workflow.
