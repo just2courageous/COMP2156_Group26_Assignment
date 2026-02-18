@@ -13,3 +13,7 @@ A typical CI pipeline runs automatically when code is pushed. It can install dep
 
 CI/CD (Continuous Integration/Continuous Delivery)
 CI runs automated checks (like linting/tests) on every push or pull request. CD automates delivery or deployment after CI passes. This reduces human error and makes releases faster and safer.
+
+CI/CD in this repo
+CI (Continuous Integration) runs automated checks (like confirming required files exist) when code is pushed or a pull request is opened.
+CD (Continuous Delivery/Deployment) is the next stage where changes can be released after CI passes (not fully implemented here, but CI is set up with GitHub Actions).
