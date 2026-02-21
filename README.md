@@ -4,6 +4,7 @@
 - Courage Erhabor (101060853)
 - Khan Hurmat (101326352)
 - Apurba Masrafi (101468860)
+- Mohamed Hassan (101501524)
 
 ## 📌 Project Description
 This repository is for COMP2156 Group Assignment 1.  
@@ -23,6 +24,7 @@ Examples:
 - `101060853-Courage`
 - `101468860-Masrafi`
 - `101326352-Hurmat`
+- `101501524-Mohamed`
 
 ## ✅ CI/CD (Continuous Integration and Continuous Delivery)
 This repository uses **GitHub Actions** for CI checks.
