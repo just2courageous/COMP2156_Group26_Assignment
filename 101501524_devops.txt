@@ -23,3 +23,8 @@ Example of DevOps in practice:
 - CI automatically runs tests.
 - If tests pass, the code is ready to be merged.
 - This reduces manual work and human errors.
+
+Tools used in this project:
+- GitHub
+- Git Bash
+- GitHub Actions
