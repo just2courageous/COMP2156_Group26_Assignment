@@ -12,3 +12,8 @@ Project Contribution Details:
 - Created and updated my three required files.
 - Followed proper Git workflow using branch, commits, and push.
 - Prepared my work for pull request review.
+
+Reflection:
+- Working with Git branches helped me understand version control better.
+- Making multiple commits improved tracking of my changes.
+- Collaboration through pull requests improves teamwork.
