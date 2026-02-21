@@ -1,0 +1,9 @@
+Student Name: Mohamed
+Student ID: 101501524
+College: George Brown College
+Course: COMP2156
+Group: Group 26
+
+This file was created for the COMP2156 Group Assignment 1.
+It is part of my required individual contribution for the group project.
+The project uses Git and GitHub for collaboration and version control.
