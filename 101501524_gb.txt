@@ -7,3 +7,8 @@ Group: Group 26
 This file was created for the COMP2156 Group Assignment 1.
 It is part of my required individual contribution for the group project.
 The project uses Git and GitHub for collaboration and version control.
+
+Project Contribution Details:
+- Created and updated my three required files.
+- Followed proper Git workflow using branch, commits, and push.
+- Prepared my work for pull request review.
