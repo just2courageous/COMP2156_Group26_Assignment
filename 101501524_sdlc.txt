@@ -20,3 +20,8 @@ DevOps supports SDLC by improving collaboration, automation, and faster delivery
 Additional Notes:
 - SDLC provides a structured approach to software development.
 - DevOps improves SDLC by adding automation and continuous integration.
+
+Why learning SDLC is important:
+- It helps developers understand the full software process.
+- It improves planning and communication within teams.
+- It ensures better quality control before deployment.
