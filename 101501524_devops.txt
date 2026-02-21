@@ -17,3 +17,9 @@ GitHub Actions is used for CI checks in the repository.
 
 Notes:
 - Added short summary and key DevOps concepts for the assignment.
+
+Example of DevOps in practice:
+- A developer pushes code to GitHub.
+- CI automatically runs tests.
+- If tests pass, the code is ready to be merged.
+- This reduces manual work and human errors.
