@@ -16,3 +16,7 @@ SDLC helps teams:
 - manage project timelines
 
 DevOps supports SDLC by improving collaboration, automation, and faster delivery during development, testing, and deployment.
+
+Additional Notes:
+- SDLC provides a structured approach to software development.
+- DevOps improves SDLC by adding automation and continuous integration.
