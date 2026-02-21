@@ -1,0 +1,27 @@
+SDLC (Software Development Life Cycle) is the process used to build and maintain software in a structured way.
+
+Common SDLC phases:
+1. Planning
+2. Requirements Analysis
+3. Design
+4. Development
+5. Testing
+6. Deployment
+7. Maintenance
+
+SDLC helps teams:
+- organize work
+- reduce errors
+- improve software quality
+- manage project timelines
+
+DevOps supports SDLC by improving collaboration, automation, and faster delivery during development, testing, and deployment.
+
+Additional Notes:
+- SDLC provides a structured approach to software development.
+- DevOps improves SDLC by adding automation and continuous integration.
+
+Why learning SDLC is important:
+- It helps developers understand the full software process.
+- It improves planning and communication within teams.
+- It ensures better quality control before deployment.

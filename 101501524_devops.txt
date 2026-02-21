@@ -1,0 +1,30 @@
+DevOps (Development and Operations) is a way of working that improves collaboration between developers and operations teams.
+
+DevOps focuses on:
+-faster delivery
+-automation
+-teamwork
+-continuous improvement
+
+Important DevOps concepts:
+- CI (Continuous Integration): frequently merging code changes into a shared repository
+- CD (Continuous Delivery / Continuous Deployment): automatically preparing or releasing code changes
+- Version Control: tracking code changes using Git
+- Pull Request (PR): reviewing and merging changes safely
+
+In this assignment, we use GitHub branches, commits, and pull requests as part of a DevOps workflow.
+GitHub Actions is used for CI checks in the repository.
+
+Notes:
+- Added short summary and key DevOps concepts for the assignment.
+
+Example of DevOps in practice:
+- A developer pushes code to GitHub.
+- CI automatically runs tests.
+- If tests pass, the code is ready to be merged.
+- This reduces manual work and human errors.
+
+Tools used in this project:
+- GitHub
+- Git Bash
+- GitHub Actions
