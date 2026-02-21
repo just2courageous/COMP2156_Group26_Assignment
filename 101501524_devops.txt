@@ -14,3 +14,6 @@ Important DevOps concepts:
 
 In this assignment, we use GitHub branches, commits, and pull requests as part of a DevOps workflow.
 GitHub Actions is used for CI checks in the repository.
+
+Notes:
+- Added short summary and key DevOps concepts for the assignment.
